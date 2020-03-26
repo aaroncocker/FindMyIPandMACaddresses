@@ -1,2 +1,2 @@
-# simplepython3networkscanner
-Simple Python 3 script to scan home networks
+#FindMyIPandMACaddresses
+Simple Python 3 script to find your network IP address and type and your MAC address.
